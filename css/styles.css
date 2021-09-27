@@ -1,0 +1,9 @@
+/* Acá irás poniendo los estilos. Dejo algunos muy genéricos como ejemplo. */
+html {
+  font: rgb(87, 87, 87);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+  text-align: center;
+}

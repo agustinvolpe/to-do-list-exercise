@@ -1,0 +1,1 @@
+console.log('Verificando que el script cargó correctamente');
